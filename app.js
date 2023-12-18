@@ -1,6 +1,6 @@
 const express = require('express');
 const path = require('path');
-const port = 3000;
+// const port = 3000;
 
 const checkListRouter = require('./src/routes/checklist');
 const rootRouter = require('./src/routes/index');
